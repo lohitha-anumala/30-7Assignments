@@ -1,0 +1,7 @@
+E:\cSharp\Assignment1In\bin\Debug\Assignment1In.exe.config
+E:\cSharp\Assignment1In\bin\Debug\Assignment1In.exe
+E:\cSharp\Assignment1In\bin\Debug\Assignment1In.pdb
+E:\cSharp\Assignment1In\obj\Debug\Assignment1In.csprojAssemblyReference.cache
+E:\cSharp\Assignment1In\obj\Debug\Assignment1In.csproj.CoreCompileInputs.cache
+E:\cSharp\Assignment1In\obj\Debug\Assignment1In.exe
+E:\cSharp\Assignment1In\obj\Debug\Assignment1In.pdb

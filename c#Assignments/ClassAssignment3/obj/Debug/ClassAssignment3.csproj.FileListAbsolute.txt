@@ -1,0 +1,6 @@
+E:\cSharp\ClassAssignment3\bin\Debug\ClassAssignment3.dll
+E:\cSharp\ClassAssignment3\bin\Debug\ClassAssignment3.pdb
+E:\cSharp\ClassAssignment3\obj\Debug\ClassAssignment3.csprojAssemblyReference.cache
+E:\cSharp\ClassAssignment3\obj\Debug\ClassAssignment3.csproj.CoreCompileInputs.cache
+E:\cSharp\ClassAssignment3\obj\Debug\ClassAssignment3.dll
+E:\cSharp\ClassAssignment3\obj\Debug\ClassAssignment3.pdb
